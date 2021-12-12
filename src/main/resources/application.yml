@@ -1,0 +1,5 @@
+spring:
+  redis:
+    host: redis-12619.c258.us-east-1-4.ec2.cloud.redislabs.com
+    password: feD0qtwjD6pQYzBL8B9lHXIelNQwf9n3
+    port: 12619
